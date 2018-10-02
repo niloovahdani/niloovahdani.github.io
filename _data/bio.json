@@ -73,21 +73,21 @@
   ],
   "education": [
     {
-      "institution": "Azad Islamic University, Tehran North, HI",
-      "area": "Productivity Management (expected Spring, 2018)",
+      "institution": "Azad Islamic University, Tehran North",
+      "area": "Productivity Management",
       "studyType": "M.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "",
+      "endDate": "",
       "gpa": "",
       "courses": [
       ]
     }, 
     {
-      "institution": "Azad Islamic University, HI",
-      "area": "Industrial Engineering (expected Spring, 2018)",
+      "institution": "Azad Islamic University",
+      "area": "Industrial Engineering",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "",
+      "endDate": "",
       "gpa": "",
       "courses": [
       ]
