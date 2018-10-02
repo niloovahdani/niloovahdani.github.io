@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Niloo Vahdani",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://niloovahdani.github.io/images/0.jpg",
+    "email": "nilufar15571@gmail.com",
+    "phone": "281-876-7391",
+    "website": "https://niloovahdani.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "6102 Winsome Lane, Apt 20B",
+      "postalCode": "77057",
+      "city": "Houston",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Texas"
     },
     "profiles": [
       {
