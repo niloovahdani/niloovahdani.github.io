@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Niloo Vahdani",
-    "label": "Student",
+    "label": "Project Control Engineer",
     "picture": "https://niloovahdani.github.io/images/0.jpg",
     "email": "nilufar15571@gmail.com",
     "phone": "281-876-7391",
     "website": "https://niloovahdani.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "Experienced Business Manager with a demonstrated history of working in the retail industry. Skilled in Microsoft Excel, Supply Chain Management, Social Media, Leadership, and Contract Management. Strong sales professional with a Master's degree focused in Productivity management from Azad islamic university ,tehran north.",
     "location": {
       "address": "6102 Winsome Lane, Apt 20B",
       "postalCode": "77057",
@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "niloovahdani",
         "url": "http://linkedin.com/in/niloo-vadani-7a1049157"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -83,15 +73,25 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Azad Islamic University, Tehran North, HI",
+      "area": "Productivity Management (expected Spring, 2018)",
+      "studyType": "M.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }, 
+    {
+      "institution": "Azad Islamic University, HI",
+      "area": "Industrial Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
-    }
+    }, 
   ],
   "work": [
     {
